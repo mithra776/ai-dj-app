@@ -1,0 +1,78 @@
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+body
+{
+   background-size: cover;
+}
+
+.note
+{
+    color: black;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.div_speed
+{
+    float: left;
+    
+}
+
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed
+{
+  font-size: 23px;
+  margin: 15px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
+:hover #volume
+{
+    font-size: 30px;
+}
+
+:hover #speed 
+{
+    font-size: 30px;
+}
